@@ -1,0 +1,15 @@
+############
+#ignore all with *, use ! to unignore
+###########
+*
+!.gitignore
+!headers
+!headers/*.h
+!source
+!source/*.cpp
+!*.docx
+!*.pdf
+!*.pptx
+!bin
+!bin/*.csv
+!*.xlsx
